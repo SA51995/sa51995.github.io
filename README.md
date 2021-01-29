@@ -4,4 +4,4 @@
 **Arduino IDE**
 *Cygwin*
 > JAVA
-[image] (https://data:image/jpeg;)
+[image] (
