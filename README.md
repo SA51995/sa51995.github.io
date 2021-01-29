@@ -5,8 +5,5 @@
 *Cygwin*
 > JAVA
 [image] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRL9Vdt2iNs3mYyv5UQYc7DUyKR-hjlIu4gg&usqp=CAU)
-![colaborate] (imges.jpeg)
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Observe |
-| Paragraph | hello world |
+![colaborate] (images.jpeg)
+
